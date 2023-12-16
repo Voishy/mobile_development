@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Voishy</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_voice">Voice</string>
+    <string name="menu_materials">Materials</string>
+    <string name="welcome_to_voishy">Welcome to Voishy</string>
+    <string name="taming_your_shyness_with_speaking">Taming your shyness with speaking</string>
+</resources>
